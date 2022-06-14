@@ -292,6 +292,7 @@ footer p:nth-child(2){
 	color: white;
 	text-decoration: none;
 	font-size: 20px;
+	transition: .3s;
 }
 .social a:hover{
 	transform: scale(1.3);
